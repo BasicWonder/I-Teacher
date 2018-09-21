@@ -1,0 +1,21 @@
+{
+  "name": "I-Teacher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.3.2",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cd\\Users\\john_\\Desktop\\Bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node."
+  },
+  "author": "",
+  "license": "ISC"
+}
